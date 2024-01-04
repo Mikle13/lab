@@ -1,1 +1,1 @@
-<pre>system('cat /etc/passwd')</pre>
+<pre><pre>system('cat /etc/passwd')</pre></pre>
